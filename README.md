@@ -1,4 +1,3 @@
-# Decision-VS-Optimization
 # Decision vs Optimization – Subset Sum Problem (NP-Completeness)
 
 This repository contains two Python implementations demonstrating the difference between **Decision** and **Optimization** problems using the classic **Subset Sum Problem**, a well-known NP-complete problem in computational complexity.
